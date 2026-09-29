@@ -91,7 +91,7 @@ chmod +x yuhua-panel
 
 ## Windows部署
 
-下载 [Releases](https://github.com/yuhualhh/yuhua-panel/releases) 中 `yuhua-panel-windows-amd64-<版本>.zip`，解压双击 `yuhua-panel.exe` 即可
+配置 Node 24 + Python 3.12 环境、安装 pnpm + pipx 管理器，下载 [Releases](https://github.com/yuhualhh/yuhua-panel/releases) 中 `yuhua-panel-windows-amd64-<版本>.zip`，解压双击 `yuhua-panel.exe` 即可
 
 
 ## 更新面板
